@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=100, initial-scale=1.0">
+    <style>
+        title{
+            color: aqua;
+        }
+        h1{
+            font-size: x-large;
+            color: blueviolet;
+        }
+        p {
+background-color: rgb(106, 255, 0);
+        }
+        i{
+            color: rgb(128, 0, 255);
+        }
+    </style>
+    <title>
+        my website
+    </title>
+</head>
+<body>
+    <h1>welcome</h1>
+    <P>
+        <i>hello every one</i> wellcome to this website,
+        this web site inculudes owner of the website,and any other relevant info is included.
+    </P>
+    <img=>
+</body>
+</html>
